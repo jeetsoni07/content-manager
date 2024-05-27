@@ -1,0 +1,14 @@
+{
+    "name": "contact-manager/jeet",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeet Soni"
+        }
+    ],
+    "require": {}
+}
